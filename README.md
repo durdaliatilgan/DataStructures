@@ -31,3 +31,6 @@ yeni organizma tekrar ekrana yazdırılır. Yukarıdaki örnek mutasyona uğrad�
 organizma çıktısı alınmıştır.
 
 ![resim](https://github.com/durdaliatilgan/DataStructures/blob/master/img/Capture4.PNG)
+
+
+Bu proje Veri Yapıları dersi projesi kapsamında geliştirilmiştir.
