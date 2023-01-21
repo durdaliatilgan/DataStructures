@@ -9,7 +9,7 @@
 void printInfo();
 
 using namespace std;
-ReadData *read=new ReadData("veriler.txt");
+ReadData *read=new ReadData("veriler2.txt");
 Control conntrol;
 
 int main()
