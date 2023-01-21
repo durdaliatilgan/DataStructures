@@ -1,6 +1,6 @@
 # DataStructures
 
-Program çalıştığı gibi Veri.txt dosyasını okur. Veri.txt dosyasından okunacak her satırda sayılar 
+Program çalıştığı gibi Veri.txt dosyasını okur. Veri.txt dosyasından okunan her satırda sayılar 
 boşluklar ile ayrılmıştır. Her satırda tek sayı adedince sayılar bulunmaktadır. Satırdaki her sayı bir 
 hücreyi temsil etmekte ve sayısal değer de hücrenin DNA uzunluğunu ifade etmektedir. Hücreler bir 
 araya gelerek dokuyu oluşturmaktadır. Yani dosyadaki her satır bir dokudur. 20 adet doku bir araya 
