@@ -1,4 +1,10 @@
 # DataStructures
+> AVL Tree
+Binary Search Tree
+Balanced Tree
+Radix Sort
+Queue Structure
+Linked List
 
 Program çalıştığı gibi Veri.txt dosyasını okur. Veri.txt dosyasından okunan her satırda sayılar 
 boşluklar ile ayrılmıştır. Her satırda tek sayı adedince sayılar bulunmaktadır. Satırdaki her sayı bir 
